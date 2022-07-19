@@ -1,14 +1,12 @@
-[![MasterHead](https://media4.giphy.com/media/l2R0flMBPtMGU0wbm/giphy.gif?cid=790b761121a43ff4a8c33cec1d32460ba4cad819d38092f6&rid=giphy.gif&ct=g)
-
-<h1 align="center">Hi 👋, I'm Oriana</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
-(img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e937ad5e36e8231cf9290a52063206292b652c02&rid=giphy.gif&ct=g")
+<h1 align="center">Hello! 👋 I'm Oriana</h1>
+<h3 align="center">A passionate, New York based, fullstack developer student.</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ro1fyor11hwigdjpea5qfi1l4wonmtaw51bt4e6x&rid=giphy.gif&ct=g")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orlelo&label=Profile%20views&color=0e75b6&style=flat" alt="orlelo" /> </p>
 
-- 🔭 I’m currently working on **a coding bootcamp**
+- 🔭 I’m currently on **a fullstack bootcamp**
 
-- 📫 How to reach me **orianadadi@gmail.com**
+- 📫 You can reach me at **orianadadi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
